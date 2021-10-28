@@ -129,7 +129,7 @@ span{
 .signup_btn{
     display: inline-block;
     background-color: hsl(71, 73%, 54%);
-    color: rgba(255, 255, 255, 0.89);;
+    color: rgba(255, 255, 255, 0.89);
     padding: 5% 35%;
     width: 100%;
     border-radius: 5px;
